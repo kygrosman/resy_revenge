@@ -1,0 +1,19 @@
+{
+  "name": "resy_revenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kygrosman/resy_revenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kygrosman/resy_revenge/issues"
+  },
+  "homepage": "https://github.com/kygrosman/resy_revenge#readme"
+}
